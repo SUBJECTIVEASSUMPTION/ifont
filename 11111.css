@@ -1,0 +1,17 @@
+/* 定义第一个字体：Huiwen-Mincho */
+@font-face {
+    font-family: "Huiwen-Mincho";   /* 名字要和后面用的一致 */
+    src: url('https://cdn.jsdelivr.net/gh/SUBJECTIVEASSUMPTION/ifont@main/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93.woff') format('woff'),
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 定义第二个字体：点点像素体-圆形 */
+@font-face {
+    font-family: "点点像素体-圆形";
+    src: url('https://cdn.jsdelivr.net/gh/SUBJECTIVEASSUMPTION/ifont@main/%E7%82%B9%E7%82%B9%E5%83%8F%E7%B4%A0%E4%BD%93-%E5%9C%86%E5%BD%A2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
