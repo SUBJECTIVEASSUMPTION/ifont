@@ -19,7 +19,16 @@
 /* 定义第三个字体：小猫黑【全局】 */
 @font-face {
     font-family: "小猫黑【全局】";
-    src: url('https://cdn.jsdelivr.net/gh/SUBJECTIVEASSUMPTION/ifont@main/小猫黑【全局】100.woff') format('woff');    
+    src: url('https://cdn.jsdelivr.net/gh/SUBJECTIVEASSUMPTION/ifont@main/%E5%B0%8F%E7%8C%AB%E9%BB%91%E3%80%90%E5%85%A8%E5%B1%80%E3%80%91100.woff') format('woff');    
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 定义第四个字体：Xxistudio-打印体 */
+@font-face {
+    font-family: "Xxistudio-打印体";   /* 你可以自定义一个方便记忆的名称 */
+    src: url('https://cdn.jsdelivr.net/gh/SUBJECTIVEASSUMPTION/ifont@main/Xxistudio-%E6%89%93%E5%8D%B0%E4%BD%93100.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
