@@ -33,3 +33,30 @@
     font-style: normal;
     font-display: swap;
 }
+
+/* 定义第五个字体：梨衣の文宋体 */
+@font-face {
+    font-family: "梨衣の文宋体";
+    src: url('https://cdn.jsdelivr.net/gh/SUBJECTIVEASSUMPTION/ifont@main/%E6%A2%A8%E8%A1%A3%E3%81%AE%E6%96%87%E5%AE%8B%E4%BD%93100.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 定义第六个字体：梦の椿好 */
+@font-face {
+    font-family: "梦の椿好";
+    src: url('https://cdn.jsdelivr.net/gh/SUBJECTIVEASSUMPTION/ifont@main/%E5%A4%A2%E3%81%AE%E6%A4%BF%E5%A5%BD.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 定义第七个字体：梦の鸳水黑 */
+@font-face {
+    font-family: "梦の鸳水黑";
+    src: url('https://cdn.jsdelivr.net/gh/SUBJECTIVEASSUMPTION/ifont@main/%E5%A4%A2%E3%81%AE%E9%B8%BE%E6%B0%B4%E9%BB%91.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
